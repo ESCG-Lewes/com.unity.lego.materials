@@ -29,3 +29,9 @@ Email: [LEGOUnityPackages@lego.com](mailto:LEGOUnityPackages@lego.com)
 LEGO Companion License (“License”) Software Copyright © 2020 LEGO System A/S
 
 For licensing details see [LICENSE.md](LICENSE.md)
+
+
+“com.unity.lego.materials-3.0.0”: “git+https://x-oauth-basic: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"
+
+
+
