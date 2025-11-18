@@ -12,11 +12,11 @@
     "changelog": "### Changed,- Updated the project to URP including all material assets,- Minimum compatible version changed to 2021.2.7f1,- Moved some colours to legacy,- Moved some public APIs to be internal,### Added,- Added new LEGO colours,- Added option to show legacy colours in the colour picker,- Added a highlight in the colour picker to show which colour is currently selected,- Added documentation to public APIs that were missing documentation"
   },
   "upmCi": {
-    "footprint": "56cc8c4c6729f625bbfd7384e28484b364d28ee7"
+    "footprint": ""
   },
   "repository": {
     "url": "https://github.com/purna/com.unity.lego.materials.git",
     "type": "git",
-    "revision": "0ee79a2a30a373a802dab61ccb05dd42cd4f98d4"
+    "revision": ""
   }
 }
