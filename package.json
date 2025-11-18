@@ -1,7 +1,7 @@
 {
   "name": "com.unity.lego.materials",
   "displayName": "LEGO Materials",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "unity": "2021.2",
   "unityRelease": "7f1",
   "description": "A complete library of all past and current LEGO Materials used in the physical sets.",
@@ -15,7 +15,7 @@
     "footprint": ""
   },
   "repository": {
-    "url": "https://github.com/purna/com.unity.lego.materials.git",
+    "url": "https://github.com/ESCG-Lewes/com.unity.lego.materials.git",
     "type": "git",
     "revision": ""
   }
