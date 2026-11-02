@@ -1,6 +1,6 @@
 <img src="Documentation~/images/image-banner.png" align="middle" width="3000"/>
 
-# LEGO Materials
+# LEGO Materials 3.0.1
 
 A complete library of all past and current LEGO Materials used in the physical sets.
 

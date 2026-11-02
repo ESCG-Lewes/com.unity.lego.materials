@@ -9,7 +9,7 @@
     "com.unity.render-pipelines.universal": "12.1.2"
   },
   "upm": {
-    "changelog": "### Changed,- Updated the project to URP including all material assets,- Minimum compatible version changed to 2021.2.7f1,- Moved some colours to legacy,- Moved some public APIs to be internal,### Added,- Added new LEGO colours,- Added option to show legacy colours in the colour picker,- Added a highlight in the colour picker to show which colour is currently selected,- Added documentation to public APIs that were missing documentation"
+    "changelog": "### Fixed\n- Added the missing Titanium Ink (337) legacy material using the existing colour guide and ink material settings.\n- Removed the unused Git LFS requirement; package assets are stored directly in Git.\n- Removed an editor-only import from the runtime assembly to allow player builds.\n- Fixed excluding and restoring Bright Yellow in the colour picker.\n- Prevented division by zero when the colour picker is narrower than one column."
   },
   "upmCi": {
     "footprint": ""

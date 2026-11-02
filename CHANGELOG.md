@@ -4,6 +4,15 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [3.0.1] - 2026-11-02
+
+### Fixed
+- Added the missing Titanium Ink (337) legacy material using the existing colour guide and ink material settings.
+- Removed the unused Git LFS requirement; package assets are stored directly in Git.
+- Removed an editor-only import from the runtime assembly to allow player builds.
+- Fixed excluding and restoring Bright Yellow in the colour picker.
+- Prevented division by zero when the colour picker is narrower than one column.
+
 ## [3.0.0] - 2022-02-23
 
 ### Changed

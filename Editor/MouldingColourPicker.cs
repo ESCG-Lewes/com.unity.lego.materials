@@ -38,7 +38,7 @@ namespace LEGOMaterials
         private void OnGUI()
         {
             // Layout.
-            var columnCount = Mathf.FloorToInt((position.width - 3) / (boxSize + margin));
+            var columnCount = Mathf.Max(1, Mathf.FloorToInt((position.width - 3) / (boxSize + margin)));
             int universalRowCount = Mathf.CeilToInt(universalColours.Count / (float)columnCount);
             int genericRowCount = Mathf.CeilToInt(genericColours.Count / (float)columnCount);
             int specialRowCount = Mathf.CeilToInt(specialColours.Count / (float)columnCount);
@@ -213,7 +213,7 @@ namespace LEGOMaterials
 
         private static void IncludeBrightYellow()
         {
-            if (!showingBrightYellow)
+            if (showingBrightYellow)
             {
                 return;
             }
@@ -224,7 +224,7 @@ namespace LEGOMaterials
 
         private static void ExcludeBrightYellow()
         {
-            if (showingBrightYellow)
+            if (!showingBrightYellow)
             {
                 return;
             }

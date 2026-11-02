@@ -4,7 +4,6 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
 
 namespace LEGOMaterials
 {
@@ -345,7 +344,7 @@ namespace LEGOMaterials
             GoldMetallicInk_Legacy = 335,
             /// <summary>Legacy Silver Metallic Ink Id</summary>
             SilverMetallicInk_Legacy = 336,
-            /// <summary>Legacy Titanium Metallic Ink Id</summary>
+            /// <summary>Legacy Titanium Ink Id (337); the existing enum name is retained for compatibility.</summary>
             TitaniumMetallicInk_Legacy = 337,
 
             // Legacy Colours w/ Unknown Name.
