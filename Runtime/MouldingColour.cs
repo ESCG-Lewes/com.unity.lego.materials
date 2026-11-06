@@ -374,6 +374,109 @@ namespace LEGOMaterials
             UnknownName11_Legacy = 228,
             /// <summary>Unknown Legacy Id</summary>
             UnknownName12_Legacy = 285,
+
+            /// <summary>Speckle Black-Copper from the Studio LDraw palette.</summary>
+            StudioLDraw75 = 200075,
+            /// <summary>Speckle DBGray-Silver from the Studio LDraw palette.</summary>
+            StudioLDraw76 = 200076,
+            /// <summary>Metallic Gold from the Studio LDraw palette.</summary>
+            StudioLDraw82 = 200082,
+            /// <summary>Glitter Trans-Dark Pink from the Studio LDraw palette.</summary>
+            StudioLDraw114 = 200114,
+            /// <summary>Glitter Trans-Clear from the Studio LDraw palette.</summary>
+            StudioLDraw117 = 200117,
+            /// <summary>Glitter Trans-Purple from the Studio LDraw palette.</summary>
+            StudioLDraw129 = 200129,
+            /// <summary>Speckle Black-Silver from the Studio LDraw palette.</summary>
+            StudioLDraw132 = 200132,
+            /// <summary>Speckle Black-Gold from the Studio LDraw palette.</summary>
+            StudioLDraw133 = 200133,
+            /// <summary>Trans-Light Blue Violet from the Studio LDraw palette.</summary>
+            StudioLDraw293 = 200293,
+            /// <summary>Flamingo Pink from the Studio LDraw palette.</summary>
+            StudioLDraw295 = 200295,
+            /// <summary>Metallic Copper from the Studio LDraw palette.</summary>
+            StudioLDraw300 = 200300,
+            /// <summary>Glitter Trans-Light Blue from the Studio LDraw palette.</summary>
+            StudioLDraw302 = 200302,
+            /// <summary>Glitter Trans-Neon Green from the Studio LDraw palette.</summary>
+            StudioLDraw339 = 200339,
+            /// <summary>Glitter Trans-Orange from the Studio LDraw palette.</summary>
+            StudioLDraw341 = 200341,
+            /// <summary>Satin Trans-Clear from the Studio LDraw palette.</summary>
+            StudioLDraw360 = 200360,
+            /// <summary>Satin Trans-Light Blue from the Studio LDraw palette.</summary>
+            StudioLDraw362 = 200362,
+            /// <summary>Satin Trans-Brown from the Studio LDraw palette.</summary>
+            StudioLDraw363 = 200363,
+            /// <summary>Satin Trans-Dark Pink from the Studio LDraw palette.</summary>
+            StudioLDraw364 = 200364,
+            /// <summary>Satin Trans-Purple from the Studio LDraw palette.</summary>
+            StudioLDraw365 = 200365,
+            /// <summary>Satin Trans-Bright Green from the Studio LDraw palette.</summary>
+            StudioLDraw367 = 200367,
+            /// <summary>Satin Trans-Yellow from the Studio LDraw palette.</summary>
+            StudioLDraw376 = 200376,
+            /// <summary>Reddish Orange from the Studio LDraw palette.</summary>
+            StudioLDraw402 = 200402,
+            /// <summary>Sienna from the Studio LDraw palette.</summary>
+            StudioLDraw422 = 200422,
+            /// <summary>Umber from the Studio LDraw palette.</summary>
+            StudioLDraw423 = 200423,
+            /// <summary>Ochre Yellow from the Studio LDraw palette.</summary>
+            StudioLDraw424 = 200424,
+            /// <summary>Warm Pink from the Studio LDraw palette.</summary>
+            StudioLDraw430 = 200430,
+            /// <summary>Blue Violet from the Studio LDraw palette.</summary>
+            StudioLDraw431 = 200431,
+            /// <summary>Fabuland Lime from the Studio LDraw palette.</summary>
+            StudioLDraw510 = 200510,
+            /// <summary>Rubber Bright Green from the Studio LDraw palette.</summary>
+            StudioLDraw10010 = 210010,
+            /// <summary>Rubber Tan from the Studio LDraw palette.</summary>
+            StudioLDraw10019 = 210019,
+            /// <summary>Rubber Bright Pink from the Studio LDraw palette.</summary>
+            StudioLDraw10029 = 210029,
+            /// <summary>Rubber Medium Lavender from the Studio LDraw palette.</summary>
+            StudioLDraw10030 = 210030,
+            /// <summary>Rubber Trans-Bright Green from the Studio LDraw palette.</summary>
+            StudioLDraw10035 = 210035,
+            /// <summary>Rubber Trans-Red from the Studio LDraw palette.</summary>
+            StudioLDraw10036 = 210036,
+            /// <summary>Rubber Trans-Light Blue from the Studio LDraw palette.</summary>
+            StudioLDraw10043 = 210043,
+            /// <summary>Rubber Dark Bluish Gray from the Studio LDraw palette.</summary>
+            StudioLDraw10072 = 210072,
+            /// <summary>Rubber Medium Blue from the Studio LDraw palette.</summary>
+            StudioLDraw10073 = 210073,
+            /// <summary>Rubber Light Nougat from the Studio LDraw palette.</summary>
+            StudioLDraw10078 = 210078,
+            /// <summary>Bionicle Silver from the Studio LDraw palette.</summary>
+            StudioLDraw10179 = 210179,
+            /// <summary>Glitter Trans-Bright Green from the Studio LDraw palette.</summary>
+            StudioLDraw10351 = 210351,
+            /// <summary>Satin Trans-Dark Blue from the Studio LDraw palette.</summary>
+            StudioLDraw10366 = 210366,
+            /// <summary>Trans-Black from the Studio LDraw palette.</summary>
+            StudioLDraw10375 = 210375,
+            /// <summary>Rubber Sand Green from the Studio LDraw palette.</summary>
+            StudioLDraw10378 = 210378,
+            /// <summary>Dark Yellow from the Studio LDraw palette.</summary>
+            StudioLDraw100003 = 300003,
+            /// <summary>Neon Orange from the Studio LDraw palette.</summary>
+            StudioLDraw100007 = 300007,
+            /// <summary>Neon Green from the Studio LDraw palette.</summary>
+            StudioLDraw100009 = 300009,
+            /// <summary>Bionicle Gold from the Studio LDraw palette.</summary>
+            StudioLDraw100238 = 300238,
+            /// <summary>Medium Tan from the Studio LDraw palette.</summary>
+            StudioLDraw100241 = 300241,
+            /// <summary>Reddish Copper from the Studio LDraw palette.</summary>
+            StudioLDraw100249 = 300249,
+            /// <summary>Pearl Brown from the Studio LDraw palette.</summary>
+            StudioLDraw100255 = 300255,
+            /// <summary>Bionicle Copper from the Studio LDraw palette.</summary>
+            StudioLDraw100273 = 300273,
         }
 
         // LEGO Moulding Colour Guide 2022.01.04 + LEGO_Materials_Legacy provided by Anders Tankred Holm
@@ -562,6 +665,58 @@ namespace LEGOMaterials
         { Id.UnknownName10_Legacy,  new Color32(254, 203, 152, 255) },
         { Id.UnknownName11_Legacy,  new Color32(85, 165, 175, 128)  },
         { Id.UnknownName12_Legacy,  new Color32(228, 214, 218, 128) },
+
+        { Id.StudioLDraw75, new Color32(34, 19, 11, 255) },
+        { Id.StudioLDraw76, new Color32(106, 102, 104, 255) },
+        { Id.StudioLDraw82, new Color32(218, 171, 51, 255) },
+        { Id.StudioLDraw114, new Color32(223, 102, 149, 128) },
+        { Id.StudioLDraw117, new Color32(254, 254, 254, 128) },
+        { Id.StudioLDraw129, new Color32(99, 0, 96, 128) },
+        { Id.StudioLDraw132, new Color32(27, 27, 27, 255) },
+        { Id.StudioLDraw133, new Color32(44, 34, 10, 255) },
+        { Id.StudioLDraw293, new Color32(107, 171, 228, 128) },
+        { Id.StudioLDraw295, new Color32(255, 148, 194, 255) },
+        { Id.StudioLDraw300, new Color32(194, 127, 83, 255) },
+        { Id.StudioLDraw302, new Color32(174, 233, 239, 128) },
+        { Id.StudioLDraw339, new Color32(192, 255, 0, 128) },
+        { Id.StudioLDraw341, new Color32(240, 143, 28, 204) },
+        { Id.StudioLDraw360, new Color32(252, 252, 252, 240) },
+        { Id.StudioLDraw362, new Color32(174, 233, 239, 178) },
+        { Id.StudioLDraw363, new Color32(99, 95, 82, 178) },
+        { Id.StudioLDraw364, new Color32(223, 102, 149, 178) },
+        { Id.StudioLDraw365, new Color32(103, 31, 129, 178) },
+        { Id.StudioLDraw367, new Color32(35, 120, 65, 178) },
+        { Id.StudioLDraw376, new Color32(245, 205, 47, 178) },
+        { Id.StudioLDraw402, new Color32(255, 85, 0, 255) },
+        { Id.StudioLDraw422, new Color32(145, 92, 60, 255) },
+        { Id.StudioLDraw423, new Color32(84, 63, 51, 255) },
+        { Id.StudioLDraw424, new Color32(221, 158, 71, 255) },
+        { Id.StudioLDraw430, new Color32(247, 155, 155, 255) },
+        { Id.StudioLDraw431, new Color32(102, 94, 167, 255) },
+        { Id.StudioLDraw510, new Color32(120, 252, 120, 255) },
+        { Id.StudioLDraw10010, new Color32(88, 171, 65, 255) },
+        { Id.StudioLDraw10019, new Color32(227, 204, 157, 255) },
+        { Id.StudioLDraw10029, new Color32(227, 172, 199, 255) },
+        { Id.StudioLDraw10030, new Color32(160, 110, 185, 255) },
+        { Id.StudioLDraw10035, new Color32(86, 230, 70, 204) },
+        { Id.StudioLDraw10036, new Color32(201, 26, 9, 204) },
+        { Id.StudioLDraw10043, new Color32(174, 233, 239, 204) },
+        { Id.StudioLDraw10072, new Color32(107, 109, 103, 255) },
+        { Id.StudioLDraw10073, new Color32(115, 150, 200, 255) },
+        { Id.StudioLDraw10078, new Color32(255, 201, 149, 255) },
+        { Id.StudioLDraw10179, new Color32(115, 114, 113, 255) },
+        { Id.StudioLDraw10351, new Color32(86, 230, 70, 204) },
+        { Id.StudioLDraw10366, new Color32(0, 32, 160, 178) },
+        { Id.StudioLDraw10375, new Color32(94, 94, 92, 128) },
+        { Id.StudioLDraw10378, new Color32(112, 142, 124, 255) },
+        { Id.StudioLDraw100003, new Color32(229, 182, 53, 255) },
+        { Id.StudioLDraw100007, new Color32(255, 112, 82, 255) },
+        { Id.StudioLDraw100009, new Color32(188, 239, 102, 255) },
+        { Id.StudioLDraw100238, new Color32(171, 103, 58, 255) },
+        { Id.StudioLDraw100241, new Color32(204, 163, 114, 255) },
+        { Id.StudioLDraw100249, new Color32(170, 84, 30, 255) },
+        { Id.StudioLDraw100255, new Color32(87, 57, 44, 255) },
+        { Id.StudioLDraw100273, new Color32(148, 81, 72, 255) },
     };
 
         private readonly static Dictionary<Color, Id> colourGuideToId = new Dictionary<Color, Id>()
@@ -749,6 +904,49 @@ namespace LEGOMaterials
         { new Color32(254, 203, 152, 255), Id.UnknownName10_Legacy },
         { new Color32(85, 165, 175, 128),  Id.UnknownName11_Legacy },
         { new Color32(228, 214, 218, 128), Id.UnknownName12_Legacy },
+
+        { new Color32(34, 19, 11, 255), Id.StudioLDraw75 },
+        { new Color32(106, 102, 104, 255), Id.StudioLDraw76 },
+        { new Color32(218, 171, 51, 255), Id.StudioLDraw82 },
+        { new Color32(223, 102, 149, 128), Id.StudioLDraw114 },
+        { new Color32(254, 254, 254, 128), Id.StudioLDraw117 },
+        { new Color32(99, 0, 96, 128), Id.StudioLDraw129 },
+        { new Color32(27, 27, 27, 255), Id.StudioLDraw132 },
+        { new Color32(44, 34, 10, 255), Id.StudioLDraw133 },
+        { new Color32(107, 171, 228, 128), Id.StudioLDraw293 },
+        { new Color32(255, 148, 194, 255), Id.StudioLDraw295 },
+        { new Color32(194, 127, 83, 255), Id.StudioLDraw300 },
+        { new Color32(174, 233, 239, 128), Id.StudioLDraw302 },
+        { new Color32(192, 255, 0, 128), Id.StudioLDraw339 },
+        { new Color32(240, 143, 28, 204), Id.StudioLDraw341 },
+        { new Color32(252, 252, 252, 240), Id.StudioLDraw360 },
+        { new Color32(174, 233, 239, 178), Id.StudioLDraw362 },
+        { new Color32(99, 95, 82, 178), Id.StudioLDraw363 },
+        { new Color32(223, 102, 149, 178), Id.StudioLDraw364 },
+        { new Color32(103, 31, 129, 178), Id.StudioLDraw365 },
+        { new Color32(35, 120, 65, 178), Id.StudioLDraw367 },
+        { new Color32(245, 205, 47, 178), Id.StudioLDraw376 },
+        { new Color32(255, 85, 0, 255), Id.StudioLDraw402 },
+        { new Color32(145, 92, 60, 255), Id.StudioLDraw422 },
+        { new Color32(84, 63, 51, 255), Id.StudioLDraw423 },
+        { new Color32(221, 158, 71, 255), Id.StudioLDraw424 },
+        { new Color32(247, 155, 155, 255), Id.StudioLDraw430 },
+        { new Color32(102, 94, 167, 255), Id.StudioLDraw431 },
+        { new Color32(227, 204, 157, 255), Id.StudioLDraw10019 },
+        { new Color32(227, 172, 199, 255), Id.StudioLDraw10029 },
+        { new Color32(160, 110, 185, 255), Id.StudioLDraw10030 },
+        { new Color32(86, 230, 70, 204), Id.StudioLDraw10035 },
+        { new Color32(201, 26, 9, 204), Id.StudioLDraw10036 },
+        { new Color32(174, 233, 239, 204), Id.StudioLDraw10043 },
+        { new Color32(107, 109, 103, 255), Id.StudioLDraw10072 },
+        { new Color32(255, 201, 149, 255), Id.StudioLDraw10078 },
+        { new Color32(0, 32, 160, 178), Id.StudioLDraw10366 },
+        { new Color32(94, 94, 92, 128), Id.StudioLDraw10375 },
+        { new Color32(229, 182, 53, 255), Id.StudioLDraw100003 },
+        { new Color32(255, 112, 82, 255), Id.StudioLDraw100007 },
+        { new Color32(188, 239, 102, 255), Id.StudioLDraw100009 },
+        { new Color32(204, 163, 114, 255), Id.StudioLDraw100241 },
+        { new Color32(170, 84, 30, 255), Id.StudioLDraw100249 },
     };
 
         private readonly static SortedSet<Id> legacy = new SortedSet<Id>()
